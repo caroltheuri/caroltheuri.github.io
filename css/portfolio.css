@@ -31,16 +31,46 @@ h1{
   font-weight: bolder;
   text-align: center;
   color: black;
-  
+
 }
 #flat{
   float: left;
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
 }
 .about{
   font-family: sans-serif;
   font-weight: bold;
-  font-size: 150%;
+  font-size: 100%;
   color: black;
+}
+.education{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 100%;
+  color: black;
+}
+.jobexperience{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 100%;
+  color: black;
+}
+.boxmodel{
+  margin: 50px;
+  border: 2px solid green;
+  padding: 40px;
+}
+.hobbies{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 100%;
+  color: black;
+}
+#projects{
+  font-style: italic;
+  font-size: 150%;
+  font-weight: bolder;
+  color: red;
+
 }
