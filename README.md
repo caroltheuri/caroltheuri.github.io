@@ -11,9 +11,9 @@
 * _css_
 * _html_
 * _bootstrapp_
-#### Project setup
+##### Project setup
 To setup the project you need to load the site on the web and it will display automatically.
-#### Link to site on github pages
+##### Link to site on github pages
 [Visit my Github pages](caroltheuri.github.io)
-##### Copyright and License Information
+###### Copyright and License Information
 Caroline Theuri [MIT LICENSE](https://choosealicense.com/licenses/mit/)
